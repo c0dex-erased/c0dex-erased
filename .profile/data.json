@@ -1,10 +1,14 @@
 {
- "key": "52ee4720",
+ "key": "dcf3f88b",
  "stars": 1,
- "contributions": 13,
+ "contributions": 16,
  "repos": 3,
  "followers": 0,
  "languages": [
+  [
+   "Rust",
+   8890
+  ],
   [
    "C",
    416
@@ -117,15 +121,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [],
  "all": [
@@ -144,7 +148,7 @@
    "text": "A simple, liightweight, open-source fetch for Linux writen on Rust",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Rust",
    "topics": []
   },
   {
